@@ -1,0 +1,16 @@
+.main-cont {
+  display: flex;
+  justify-content: space-around;
+}
+.bg-container {
+  background-image: url("https://res.cloudinary.com/sahith/image/upload/v1625918307/travel%20submition/mesut-kaya-eOcyhe5-9sQ-unsplash_mxxfdp.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.list-cont {
+  background-color: #181818;
+  opacity: 0.8;
+  color: #ffffff;
+  margin: 20px;
+  border-radius: 30px;
+}

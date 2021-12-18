@@ -1,0 +1,39 @@
+.cont-home {
+  background-color: #ab7edd;
+  background-size: cover;
+  height: 100vh;
+  overflow-y: scroll;
+}
+.input-search {
+  width: 80%;
+  height: 25px;
+}
+.input-cont {
+  display: flex;
+  justify-content: center;
+}
+.head-music {
+  color: #333333;
+  font-size: 35px;
+  text-align: center;
+}
+.cont-home-main {
+  background-color: #ab7edd;
+  background-size: cover;
+  height: 100vh;
+}
+.cont-but {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  border-bottom: 5px solid #db8ae3;
+}
+.cont-notFound {
+  background-color: #ab7edd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #faf9ce;
+}

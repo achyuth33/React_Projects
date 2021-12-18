@@ -1,0 +1,49 @@
+.container-reg {
+  background-image: url("https://res.cloudinary.com/sahith/image/upload/v1625821327/travel%20submition/luca-bravo-O453M2Liufs-unsplash_ejj4ua.jpg");
+  height: 100vh;
+  background-size: cover;
+  margin: 0px;
+}
+.main-head {
+  text-align: center;
+  color: #c93698;
+  font-size: 60px;
+}
+.cont-form-reg {
+  height: 80vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-cont-input {
+  padding-left: 25px;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.form-div {
+  background-color: #a4ded5;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding: 15px;
+  height: 77vh;
+  width: 40%;
+  text-align: center;
+}
+.img-div {
+  width: 40%;
+}
+.img-pro {
+  width: 40vw;
+  height: 80vh;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.input-edit {
+  border-radius: 5px;
+  border-width: 0px;
+  height: 20px;
+  width: 180px;
+}

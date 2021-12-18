@@ -1,0 +1,49 @@
+.cont-detail {
+  background-color: #ab7edd;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.head-cont {
+  color: #95c4a4;
+}
+.para-cont {
+  color: #faf9ce;
+  font-size: 20px;
+}
+.audio-play {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.home-cont {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+.home-but {
+  background-color: #db8ae3;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  margin: 10px;
+  border-width: 0px;
+}
+.cont-song {
+  display: flex;
+  justify-content: space-around;
+  background-color: #db8ae3;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+}
+.description-cont {
+  padding-left: 20px;
+}
+.song-cover {
+  height: 200px;
+  width: 250px;
+  border-radius: 15px;
+}

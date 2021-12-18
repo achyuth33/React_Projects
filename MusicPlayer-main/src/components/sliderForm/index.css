@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.container-2 {
+  display: flex;
+}
+.heading-songs-slide {
+  color: #95c4a4;
+  font-size: 25px;
+  text-align: center;
+}
+.picture {
+  height: 150px;
+  width: 300px;
+  border-radius: 10px;
+  flex-shrink: 1;
+}
+
+.cont-size {
+  min-height: 64px;
+  max-height: 150px;
+  min-width: 90px;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  cursor: pointer;
+}
+
+.cont-2 {
+  margin-top: 20px;
+}

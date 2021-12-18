@@ -1,0 +1,33 @@
+.cont-pop {
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  height: 100%;
+}
+.cont-size {
+  margin: 20px;
+  height: 150px;
+  width: 300px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  cursor: pointer;
+}
+.picture-list-songs {
+  height: 150px;
+  width: 300px;
+  border-radius: 10px;
+}
+.cont-2 {
+  margin-top: 20px;
+}
+.heading-songs {
+  color: #95c4a4;
+  font-size: 25px;
+}

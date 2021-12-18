@@ -1,0 +1,12 @@
+.but-size {
+  height: 50px;
+  width: 75px;
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 0px;
+  color: #faf9ce;
+  margin: 5px;
+}
+.but-border {
+  border-bottom: 5px solid #fca3c4;
+}
